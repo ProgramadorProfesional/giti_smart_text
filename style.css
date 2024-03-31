@@ -1,0 +1,24 @@
+h3 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: salmon;
+    color: white;
+}
+body
+{
+    background-color:lightblue;
+}
+canvas
+{
+    border-radius: 14px;
+    border: 10px solid black;
+    box-shadow: 4px 4px 4px orange;
+}
